@@ -29,5 +29,9 @@
 [1001/234107:ERROR:crash_report_database_win.cc(412)] unexpected header
 [1001/235607:ERROR:crash_report_database_win.cc(412)] unexpected header
 [1002/001107:ERROR:crash_report_database_win.cc(412)] unexpected header
-[1002/001554:ERROR:crash_report_database_win.cc(412)] unexpected header
-[1002/001559:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1002/001615:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1002/094143:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1002/204330:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1002/204401:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1002/204807:ERROR:crash_report_database_win.cc(412)] unexpected header
+[1002/205751:ERROR:crash_report_database_win.cc(412)] unexpected header
